@@ -16,6 +16,7 @@ Cons in existing system.
 
 Enhancements in chatEng.
 - Desktop application.
-- Groups of 5 members.
+- Groups of 5 members ( chat room will be created in a way that each room will have maximum of 5 people) .
 - Anonymous communication.
 - Opportunity to meet new people at each new login.
+- Provided with useful English materials.
